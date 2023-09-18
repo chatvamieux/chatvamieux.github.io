@@ -1,0 +1,4 @@
+Sitemap: https://chatvamieux.fr/sitemapindex.xml
+
+User-Agent: *
+Host: chatvamieux.fr
