@@ -251,10 +251,10 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.md", "blog", "post.tmpl"),
-    ("posts/*.rst", "blog", "post.tmpl"),
-    ("posts/*.txt", "blog", "post.tmpl"),
-    ("posts/*.html", "blog", "post.tmpl"),
+    ("posts/*.md", "posts", "post.tmpl"),
+    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.md", "", "page.tmpl"),
@@ -263,7 +263,7 @@ PAGES = (
     ("pages/*.html", "", "page.tmpl"),
 )
 
-INDEX_PATH = "blog"
+INDEX_PATH = "posts"
 
 # Below this point, everything is optional
 
