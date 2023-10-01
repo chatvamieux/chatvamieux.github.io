@@ -7,66 +7,76 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://chatvamieux.fr/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/2023/</loc>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/archive.html</loc>
-  <lastmod>2023-10-01T10:04:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/blog/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/blog/hihi/</loc>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/categories/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/en/2023/</loc>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/archive.html</loc>
-  <lastmod>2023-10-01T10:04:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/blog/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/en/blog/hihi/</loc>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://chatvamieux.fr/blog/hihi/" />
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/categories/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
- </url>
- <url>
-  <loc>https://chatvamieux.fr/en/galleries/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/es/2023/</loc>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/archive.html</loc>
-  <lastmod>2023-10-01T10:04:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/blog/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/es/blog/hihi/</loc>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://chatvamieux.fr/blog/hihi/" />
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/categories/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
- </url>
- <url>
-  <loc>https://chatvamieux.fr/es/galleries/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
- </url>
- <url>
-  <loc>https://chatvamieux.fr/galleries/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
- </url>
- <url>
-  <loc>https://chatvamieux.fr/listings/</loc>
-  <lastmod>2023-09-18T16:52:00Z</lastmod>
+  <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
 </urlset>
