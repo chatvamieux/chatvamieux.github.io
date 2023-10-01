@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://chatvamieux.fr/en/galleries/rss.xml</loc>
-  <lastmod>2023-10-01T10:00:00Z</lastmod>
+  <lastmod>2023-10-01T10:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://chatvamieux.fr/en/rss.xml</loc>
@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://chatvamieux.fr/es/galleries/rss.xml</loc>
-  <lastmod>2023-10-01T10:00:00Z</lastmod>
+  <lastmod>2023-10-01T10:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://chatvamieux.fr/es/rss.xml</loc>
@@ -23,7 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>https://chatvamieux.fr/galleries/rss.xml</loc>
-  <lastmod>2023-10-01T10:00:00Z</lastmod>
+  <lastmod>2023-10-01T10:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://chatvamieux.fr/rss.xml</loc>
@@ -31,6 +31,6 @@
  </sitemap>
  <sitemap>
   <loc>https://chatvamieux.fr/sitemap.xml</loc>
-  <lastmod>2023-10-01T10:00:00Z</lastmod>
+  <lastmod>2023-10-01T10:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>
