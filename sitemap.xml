@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://chatvamieux.fr/</loc>
-  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/2023/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://chatvamieux.fr/archive.html</loc>
-  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/blog/</loc>
@@ -31,7 +31,7 @@
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/</loc>
-  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/2023/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/archive.html</loc>
-  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/blog/</loc>
@@ -48,15 +48,23 @@
  <url>
   <loc>https://chatvamieux.fr/en/blog/hihi/</loc>
   <lastmod>2023-10-01T11:22:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fr" href="https://chatvamieux.fr/blog/hihi/" />
  </url>
  <url>
   <loc>https://chatvamieux.fr/en/categories/</loc>
   <lastmod>2023-10-01T11:22:00Z</lastmod>
  </url>
  <url>
+  <loc>https://chatvamieux.fr/en/posts/</loc>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/en/posts/hihi/</loc>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://chatvamieux.fr/posts/hihi/" />
+ </url>
+ <url>
   <loc>https://chatvamieux.fr/es/</loc>
-  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/2023/</loc>
@@ -64,7 +72,7 @@
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/archive.html</loc>
-  <lastmod>2023-10-01T11:22:00Z</lastmod>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/blog/</loc>
@@ -73,10 +81,26 @@
  <url>
   <loc>https://chatvamieux.fr/es/blog/hihi/</loc>
   <lastmod>2023-10-01T11:22:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="fr" href="https://chatvamieux.fr/blog/hihi/" />
  </url>
  <url>
   <loc>https://chatvamieux.fr/es/categories/</loc>
   <lastmod>2023-10-01T11:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/es/posts/</loc>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/es/posts/hihi/</loc>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://chatvamieux.fr/posts/hihi/" />
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/posts/</loc>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://chatvamieux.fr/posts/hihi/</loc>
+  <lastmod>2023-10-01T11:29:00Z</lastmod>
  </url>
 </urlset>
