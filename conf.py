@@ -145,21 +145,21 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archives"),
         ("/categories/", "Étiquettes"),
         ("/rss.xml", "Flux RSS"),
-	("/blog/index.html", "Blog"),
+	("/posts/index.html", "Blog"),
     ),
 
     "en": (
         ("/en/archive.html", "Archive"),
         ("/en/categories/", "Tags"),
         ("/en/rss.xml", "RSS feed"),
-	("/blog/index.html", "Blog"),
+	("/posts/index.html", "Blog"),
     ),
 
     "es": (
         ("/es/archive.html", "Archivo"),
         ("/es/categories/", "Etiquetas"),
         ("/es/rss.xml", "Canal RSS"),
-	("/blog/index.html", "Blog"),
+	("/posts/index.html", "Blog"),
     ),
 }
 
